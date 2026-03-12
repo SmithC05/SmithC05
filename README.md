@@ -121,7 +121,18 @@
 <br/><br/>
 
 <!-- Trophy Showcase -->
-<img src="https://github-profile-trophy.vercel.app/?username=SmithC05&theme=radical&no-frame=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SmithC05&theme=radical&margin-w=10&column=6" width="100%" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+<!-- Always-rendering animated stat pills as visual complement -->
+<img src="https://img.shields.io/badge/Commits-Active-00FF41?style=for-the-badge&logo=github&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pull_Requests-Contributor-00D9FF?style=for-the-badge&logo=git&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Code_Reviews-Reviewer-FF006E?style=for-the-badge&logo=githubactions&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open_Source-Advocate-00FF41?style=for-the-badge&logo=opensourceinitiative&labelColor=0d1117"/>
 
 </div>
 
