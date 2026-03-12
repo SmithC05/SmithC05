@@ -9,7 +9,7 @@
 
 <!-- Animated Typing Banner -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=55&lines=🚀+Building+Scalable+Backend+Systems;⚡+DSA+%7C+500%2B+Problems+Solved;🌐+Full-Stack+Developer;🏗️+Microservices+%26+System+Design;☁️+Exploring+Cloud+%26+Distributed+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=55&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;DSA+%7C+500%2B+Problems+Solved+%E2%9A%A1;Full-Stack+Developer+%F0%9F%8C%90;Microservices+%26+System+Design+%F0%9F%8F%97%EF%B8%8F;Exploring+Cloud+%26+Distributed+Systems+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -37,22 +37,10 @@
 
 ## 🧑‍💻 Developer Profile
 
-</div>
+<!-- Animated profile lines -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=200&lines=%F0%9F%8E%93+Computer+Science+Engineering+Student;%F0%9F%8F%97%EF%B8%8F+Backend+%26+Full-Stack+Developer;%F0%9F%A7%A9+500%2B+DSA+Problems+Solved+%E2%80%94+LeetCode+%2B+CodeChef;%E2%9A%A1+Scalable+APIs+%26+Microservices+Builder;%F0%9F%8C%90+Distributed+Systems+%26+System+Design;%E2%98%81%EF%B8%8F+Exploring+Cloud+Infrastructure;%F0%9F%8E%AF+Aspiring+SWE+%40+Top+Tech+Companies;%F0%9F%93%8D+India+%7C+Open+to+Remote+Opportunities" alt="Animated Developer Profile" />
 
-```yaml
-┌─────────────────────────────────────────────────────────────────┐
-│                       SMITH  •  DEVELOPER                       │
-├─────────────────────────────────────────────────────────────────┤
-│  🎓  Computer Science Engineering Student                       │
-│  🏗️  Backend & Full-Stack Developer                             │
-│  🧩  500+ DSA Problems Solved (LeetCode + CodeChef)             │
-│  ⚡  Scalable APIs & Microservices Builder                      │
-│  🌐  Passionate about Distributed Systems & System Design       │
-│  ☁️  Exploring Cloud Infrastructure & Backend Optimization      │
-│  🎯  Aspiring Software Engineer @ Top Tech Companies            │
-│  📍  India  |  Open to Remote Opportunities                     │
-└─────────────────────────────────────────────────────────────────┘
-```
+</div>
 
 <div align="center">
 
@@ -133,7 +121,7 @@
 <br/><br/>
 
 <!-- Trophy Showcase -->
-<img src="https://github-profile-trophy.vercel.app/?username=SmithC05&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SmithC05&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -169,7 +157,7 @@ A real-time analytics dashboard that visualizes competitive programming performa
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/🔗_View_Project-00FF41?style=for-the-badge&labelColor=0d1117)](https://github.com/SmithC05)
+[![View Project](https://img.shields.io/badge/🔗_View_Project-00FF41?style=for-the-badge&labelColor=0d1117)](https://github.com/TeamThunderr/Competition)
 
 </td>
 <td width="50%" valign="top">
@@ -187,7 +175,7 @@ An intelligent system that predicts and recommends optimal product prices based 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&labelColor=0d1117)](https://github.com/SmithC05)
+[![View Project](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&labelColor=0d1117)](https://github.com/SmithC05/CCP)
 
 </td>
 </tr>
@@ -215,7 +203,7 @@ An AI-powered platform that helps developers navigate their career paths through
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/🔗_View_Project-FF006E?style=for-the-badge&labelColor=0d1117)](https://github.com/SmithC05)
+[![View Project](https://img.shields.io/badge/🔗_View_Project-FF006E?style=for-the-badge&labelColor=0d1117)](https://github.com/SmithC05/Ai-career)
 
 </td>
 </tr>
